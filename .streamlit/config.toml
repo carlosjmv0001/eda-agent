@@ -1,1 +1,2 @@
-[server]\npythonVersion = "3.11"
+[server]
+pythonVersion = "3.11"
